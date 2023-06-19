@@ -12,11 +12,11 @@ do {
   i++;
 } while (i<6);
 // задание 3
-let c=7;
+let n=7;
 do {
-  console.log(c);
+  console.log(n);
   c++; 
-} while (c<23);
+} while (n<23);
 // 4 задание 
 const user={
   'Коля': 'зарплата 200 долларов',
