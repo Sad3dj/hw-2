@@ -15,7 +15,7 @@ alert(iphone['date']);
 const creator={
   name: 'Брендан Эйх'
   };
-  alert(creator['name']
+  alert(creator['name'])
 
 //4 задание
 let a;
