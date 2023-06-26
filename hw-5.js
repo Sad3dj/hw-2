@@ -2,9 +2,9 @@
 function min(a,b) {
   return (a,b);
   }
-  let result=Math.min(4,8);
+  let result=min(4,8);
   console.log(result);
-  let result2=Math.min(6,6);
+  let result2=min(6,6);
   console.log(result2);
 
 
@@ -12,9 +12,9 @@ function min(a,b) {
   let a=prompt('Введите число');
   function isPrime(a){
   return a%=2;
+  let result=isPrime(a);
 }
-let result=isPrime(a);
- if (result===0) {
+if (result===0) {
 alert('Число чётное');
 } else {
 alert('Число нечётное');
